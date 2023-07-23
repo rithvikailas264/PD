@@ -2,13 +2,6 @@
 ## Guide the pirate to the treasure! A 360° AR puzzle platformer game that hones logical thinking, memory and problem solving skills. Choose from 3 worlds of varying themes, obstacles and challenges!
 
 
-## Getting Started
-
-### Instagram
-*To be updated after publishing effect*
-
-### Spark AR Studio
-
 #### 1. Clone repository
 ~~~
 git clone git@github.com:yankai364/Pirate-Dash-360.git
