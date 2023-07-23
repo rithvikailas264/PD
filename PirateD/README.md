@@ -3,10 +3,7 @@
 
 <p align="center"><img src="img/PirateDash360_thumbnail.png" width="70%"/></p>
 
-<p align="center"><i>Submission for Facebook Hackathon: AR</i></center>
-<p align="center">
-Team Members: <a href="https://github.com/gabrielkzm">Gabriel Koh</a>, <a href="https://github.com/ngrq123">Ng Rui Qin</a>, <a href="https://github.com/yankai364">Ong Yan Kai</a>, <a href="https://github.com/vncnttkkk">Vincent Tok</a>
-</p>
+
 
 ## Getting Started
 
