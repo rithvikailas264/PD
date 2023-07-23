@@ -1,4 +1,4 @@
-# Pirate Dash 360
+# PirateDash
 ## Guide the pirate to the treasure! A 360° AR puzzle platformer game that hones logical thinking, memory and problem solving skills. Choose from 3 worlds of varying themes, obstacles and challenges!
 
 <p align="center"><img src="img/PirateDash360_thumbnail.png" width="70%"/></p>
@@ -27,14 +27,14 @@ git clone git@github.com:yankai364/Pirate-Dash-360.git
 
 As recent university graduates, each of us are about to step into the working world. Looking back on our educational journey, we thought of instances that have propelled us into the world of technology, and some highlights include playing puzzle games like Rush Hour, Circuit Maze and Carcassonne. These brain stimulating games have indeed formed the foundation of our technology backgrounds, as they strengthened our **logical thinking aptitude, planning, memory capacity and problem solving skills**.
 
-As a team, we wanted to **pay it forward and contribute to society**, especially in the **education space**. We wanted to do so through a fun and fuss-free medium. After all,  learning is most productive when it is fun! To maximize the fun, we wanted to incorporate elements of **cutting edge technology** in today's society for a stronger user engagement and experience. During this difficult period, as people around the world are staying home and observing social distancing measures due to COVID-19, we have come to realize that some parents are finding it difficult to keep their children occupied productively. To tackle this, we decided to design a solution to keep youths engaged while developing their logical reasoning and problem solving skills. After several rounds of ideation, **Pirate Dash 360** was born.
+As a team, we wanted to **pay it forward and contribute to society**, especially in the **education space**. We wanted to do so through a fun and fuss-free medium. After all,  learning is most productive when it is fun! To maximize the fun, we wanted to incorporate elements of **cutting edge technology** in today's society for a stronger user engagement and experience. During this difficult period, as people around the world are staying home and observing social distancing measures due to COVID-19, we have come to realize that some parents are finding it difficult to keep their children occupied productively. To tackle this, we decided to design a solution to keep youths engaged while developing their logical reasoning and problem solving skills. After several rounds of ideation, **PirateDash** was born.
 
 
 ## What it does
 
-**Pirate Dash 360** provides an immersive **360° Augmented Reality (AR) puzzle experience** through a platformer game which brings the player into the world of treasure hunting by solving puzzles. Players are tasked to formulate a path which leads the pirate from the start tile to the end tile (where the treasure chest is located) while avoiding various traps and obstacles. This is done via swapping of directional tiles. Through this game, we hope to strengthen the player's logical thinking, as they have to derive an answer from randomized tile patterns.
+**PirateDash** provides an immersive **360° Augmented Reality (AR) puzzle experience** through a platformer game which brings the player into the world of treasure hunting by solving puzzles. Players are tasked to formulate a path which leads the pirate from the start tile to the end tile (where the treasure chest is located) while avoiding various traps and obstacles. This is done via swapping of directional tiles. Through this game, we hope to strengthen the player's logical thinking, as they have to derive an answer from randomized tile patterns.
 
-Currently, **Pirate Dash 360** offers a selection of 3 different worlds (Grass, Snow and Desert) of varying difficulty, each comprising 5 separate levels. Each level features traps, obstacles, tile variations and many more!
+Currently, **PirateDash** offers a selection of 3 different worlds (Grass, Snow and Desert) of varying difficulty, each comprising 5 separate levels. Each level features traps, obstacles, tile variations and many more!
 
 <img src="img/GrassLevel1.PNG" width="25%"/><img src="img/SnowLevel1.PNG" width="25%"/><img src="img/DesertLevel1.PNG" width="25%"/><img src="img/SnowWorld.PNG" width="25%"/>
 *From left to right: Grass World Level 1, Snow World Level 1, Desert World Level 1, Snow World top view*
@@ -48,7 +48,7 @@ To ensure that the tiles are placed precisely, we rendered them programmatically
 ## Challenges we ran into
 As most of us were new to augmented reality and game programming, we had to learn Spark AR from scratch. Fortunately, the tutorials were informative and provided us with what we needed to complete our game. Some of our main challenges include the following:
 
-- Sourcing and curation of assets that were within our stipulated budget, whilst maintaining the 4 MB size requirement for deployment of **Pirate Dash 360** on Instagram.
+- Sourcing and curation of assets that were within our stipulated budget, whilst maintaining the 4 MB size requirement for deployment of **PirateDash** on Instagram.
 
 - Our lack of knowledge on 3D modelling and animation concepts such as blending, cull and animation curves made it difficult for us to configure the aesthetics of our game in the earlier weeks. Despite multiple attempts, we were not able to do due to time constraint and bandwidth limitations. We decided to utilize the wealth of resources available from third parties such as SketchFab.
 
@@ -77,8 +77,8 @@ We learnt so much regarding Spark AR Studio and how scripting can be used to enh
 - Learnt about the benefits of AR and Education-based Gaming, and how we could potentially bring across social good and value to the masses through cutting edge technology.
   
 
-## What's next for Pirate Dash 360
-We have great plans for **Pirate Dash 360**! We intend to add more world themes and levels, include new obstacles and more complexities into the game. Beyond this, we also plan to introduce elements that will further challenge short-term memory capacity as well as visual and spatial reasoning. Examples include jigsaw puzzles, rotating tiles and an eight directional tile system as compared to our current four directional tile system. Look forward to our updates!
+## What's next for PirateDash
+We have great plans for **PirateDash**! We intend to add more world themes and levels, include new obstacles and more complexities into the game. Beyond this, we also plan to introduce elements that will further challenge short-term memory capacity as well as visual and spatial reasoning. Examples include jigsaw puzzles, rotating tiles and an eight directional tile system as compared to our current four directional tile system. Look forward to our updates!
 
 
 
@@ -101,13 +101,3 @@ https://sketchfab.com/3d-models/bomberman-bomb-4a109903cbd34bef9d48e427a2d4da78
 https://sketchfab.com/3d-models/bomberman-fire-8e482145eeed419980fabf073fcb13c9  
 https://quaternius.itch.io/platformer-pack/  
 
-### Audio Assets
-
-Imported from within Spark AR Studio.
-
-Sources: 
-- Facebook Sound Design
-- Global Genius
-
----
-*Updated as at 24 June 2020*
