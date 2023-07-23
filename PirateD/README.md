@@ -1,9 +1,6 @@
 # PirateDash
 ## Guide the pirate to the treasure! A 360° AR puzzle platformer game that hones logical thinking, memory and problem solving skills. Choose from 3 worlds of varying themes, obstacles and challenges!
 
-<p align="center"><img src="img/PirateDash360_thumbnail.png" width="70%"/></p>
-
-
 
 ## Getting Started
 
